@@ -1,0 +1,18 @@
+Why..?
+	for code collaboration
+	for management
+	for security
+	for version cntrl
+		
+Git: Distributed Version control System
+
+Github : hosting platform for our webpages.
+
+Some Basic Cmd / Linux commands:
+	pwd : print working directory.
+	cd: chnage directory.
+	ls: list all the files
+	ll: gives extra info about the file.
+	mkdir: in order to make a directory/a folder/ project
+	touch: to create a text file
+	cat: to show the content of the file.
