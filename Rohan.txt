@@ -16,3 +16,33 @@ Some Basic Cmd / Linux commands:
 	mkdir: in order to make a directory/a folder/ project
 	touch: to create a text file
 	cat: to show the content of the file.
+	vi: lets us to edit or add/write anything in our file. [its opens the vim editor]
+		In this : to save the file after editing press (esc key) then (colon :) and (wq) and press enter.
+
+When using first-time git , we have to first configure our username and email
+	git config --global user.email"email id"
+	git config --local user.name"username"
+	
+In order to commit our directory/Folder/ Project, we have to first initislize our folder/dir to repository:
+	
+	git init: to initialize our directory.
+	git status: what are the current changes and status of my direc/project.
+	git add <file> :  to add our file to staging area.
+	git commit -m : to commit our changes with a mesaage with it.
+	git restore --staged <filename> : to remove a file from staging area and move to working direc.
+
+We have 3 directories :
+ 1) Our working dire :  which we get through pwd
+				this dire is not tracted by git.
+				so for commit we have to move our files from here to STAGING AREA 
+				so we have do these by ADD our files there.
+				this direc is not monitored by GIT
+ 
+2) Staging Area : these is the dire or area which is monitored by Git.
+			From here we can send our files to the commit area for the final commit.
+
+3) Commit Area : 
+
+
+12111123r221342553454354356bb466bn263bt345t432f64v7654q4136fv 767u6vy4754n75684610:46 PM 1/3/20242  : some random values...
+	
